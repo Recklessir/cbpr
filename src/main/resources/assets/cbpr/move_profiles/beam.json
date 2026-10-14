@@ -1,0 +1,8 @@
+{
+  "id": "beam",
+  "moves": ["hyperbeam", "icebeam", "psybeam", "bubblebeam", "aurorabeam", "signalbeam", "flashcannon", "waterpulse", "gigaimpact"],
+  "anticipation": 0.45, "approach": 0.8, "waitForImpact": 2.2, "hold": 1.0,
+  "distanceScale": 1.0, "heightScale": 1.1, "swingDegrees": 70,
+  "fovKick": 3.5, "shake": 0.7, "tilt": 0, "hitStop": 0.03,
+  "callout": true
+}

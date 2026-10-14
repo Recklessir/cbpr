@@ -1,0 +1,23 @@
+{
+  "ui_hover": { "sounds": ["cbpr:ui_hover"] },
+  "ui_select": { "sounds": ["cbpr:ui_select"] },
+  "ui_confirm": { "sounds": ["cbpr:ui_confirm"] },
+  "ui_back": { "sounds": ["cbpr:ui_back"] },
+  "ui_unavailable": { "sounds": ["cbpr:ui_unavailable"] },
+  "panel_open": { "sounds": ["cbpr:panel_open"] },
+  "panel_close": { "sounds": ["cbpr:panel_close"] },
+  "menu_open": { "sounds": ["cbpr:menu_open"] },
+  "special_highlight": { "sounds": ["cbpr:special_highlight"] },
+  "transition": { "sounds": ["cbpr:transition"] },
+  "turn_start": { "sounds": ["cbpr:turn_start"] },
+  "super_effective": { "sounds": ["cbpr:super_effective"] },
+  "not_effective": { "sounds": ["cbpr:not_effective"] },
+  "crit": { "sounds": ["cbpr:crit"] },
+  "status_applied": { "sounds": ["cbpr:status_applied"] },
+  "transformation": { "sounds": ["cbpr:transformation"] },
+  "switch": { "sounds": ["cbpr:switch"] },
+  "faint": { "sounds": ["cbpr:faint"] },
+  "victory": { "sounds": ["cbpr:victory"] },
+  "defeat": { "sounds": ["cbpr:defeat"] },
+  "flee": { "sounds": ["cbpr:flee"] }
+}

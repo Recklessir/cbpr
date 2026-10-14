@@ -1,0 +1,7 @@
+{
+  "id": "generic",
+  "anticipation": 0.25, "approach": 0.5, "waitForImpact": 1.6, "hold": 0.7,
+  "distanceScale": 0.75, "heightScale": 0.9, "swingDegrees": 35,
+  "fovKick": 5, "shake": 0.6, "tilt": 0, "hitStop": 0.06,
+  "callout": true
+}

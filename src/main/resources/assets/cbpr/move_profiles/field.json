@@ -1,0 +1,7 @@
+{
+  "id": "field",
+  "anticipation": 0.3, "approach": 0.9, "waitForImpact": 1.0, "hold": 0.6,
+  "distanceScale": 1.6, "heightScale": 1.8, "swingDegrees": 10,
+  "fovKick": 1.5, "shake": 0, "tilt": 0, "hitStop": 0,
+  "callout": true
+}

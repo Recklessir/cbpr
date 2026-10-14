@@ -1,0 +1,7 @@
+{
+  "id": "area",
+  "anticipation": 0.3, "approach": 0.6, "waitForImpact": 1.8, "hold": 0.9,
+  "distanceScale": 1.35, "heightScale": 1.3, "swingDegrees": 15,
+  "fovKick": 5, "shake": 1.4, "tilt": 0, "hitStop": 0.05,
+  "callout": true
+}

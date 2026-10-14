@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "cbpr",
+  "version": "${version}",
+  "name": "Cobble Battle Preview Rehaul",
+  "description": "Cinematic over-the-shoulder battle presentation for Cobblemon. Client-side only.",
+  "authors": ["Reckshene"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      {
+        "adapter": "kotlin",
+        "value": "com.cbpr.client.CbprClient"
+      }
+    ],
+    "modmenu": [
+      "com.cbpr.client.CbprModMenu"
+    ]
+  },
+  "mixins": [
+    {
+      "config": "cbpr.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "suggests": {
+    "modmenu": "*"
+  },
+  "depends": {
+    "fabricloader": ">=0.17.2",
+    "fabric-api": "*",
+    "fabric-language-kotlin": "*",
+    "minecraft": "1.21.1",
+    "java": ">=21",
+    "cobblemon": ">=1.8.2"
+  }
+}

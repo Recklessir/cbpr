@@ -1,0 +1,7 @@
+{
+  "id": "rush",
+  "anticipation": 0.22, "approach": 0.35, "waitForImpact": 1.4, "hold": 0.65,
+  "distanceScale": 0.55, "heightScale": 0.85, "swingDegrees": 40,
+  "fovKick": 6.5, "shake": 0.9, "tilt": 0, "hitStop": 0.07,
+  "callout": true
+}

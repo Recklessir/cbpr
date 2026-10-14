@@ -1,0 +1,8 @@
+{
+  "id": "charge",
+  "moves": ["solarbeam", "solarblade", "skyattack", "razorwind", "skullbash", "meteorbeam", "freezeshock", "iceburn"],
+  "anticipation": 0.6, "approach": 0.9, "waitForImpact": 2.5, "hold": 0.9,
+  "distanceScale": 0.9, "heightScale": 1.0, "swingDegrees": 30,
+  "fovKick": 5, "shake": 0.9, "tilt": 0, "hitStop": 0.06,
+  "callout": true
+}

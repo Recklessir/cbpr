@@ -1,0 +1,32 @@
+{
+  "required": true,
+  "package": "com.cbpr.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "CameraMixin",
+    "GameRendererMixin",
+    "MoveTileMixin",
+    "BattleOptionTileMixin",
+    "BattleBackButtonMixin",
+    "BattleShiftButtonMixin",
+    "ModShiftButtonMixin",
+    "BattleHealthChangeHandlerMixin",
+    "BattleMessageHandlerMixin",
+    "BattleFaintHandlerMixin",
+    "BattleSwitchPokemonHandlerMixin",
+    "LivingEntityRendererMixin",
+    "EntityRenderDispatcherMixin",
+    "MinecraftMixin",
+    "SoundManagerMixin",
+    "SwitchTileMixin",
+    "GuiUtilsMixin",
+    "MovePreviewMixin",
+    "BattleGimmickButtonMixin",
+    "AbstractWidgetMixin",
+    "RenderChunkRegionMixin",
+    "SodiumLevelSliceMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

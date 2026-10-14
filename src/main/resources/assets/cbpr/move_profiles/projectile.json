@@ -1,0 +1,7 @@
+{
+  "id": "projectile",
+  "anticipation": 0.3, "approach": 0.5, "waitForImpact": 1.6, "hold": 0.7,
+  "distanceScale": 0.8, "heightScale": 1.0, "swingDegrees": 25,
+  "fovKick": 4.5, "shake": 0.5, "tilt": 0, "hitStop": 0.05,
+  "callout": true
+}

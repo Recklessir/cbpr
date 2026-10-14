@@ -1,0 +1,7 @@
+{
+  "id": "self",
+  "anticipation": 0.15, "approach": 0.5, "waitForImpact": 0.9, "hold": 0.5,
+  "distanceScale": 0.5, "heightScale": 0.8, "swingDegrees": 15,
+  "fovKick": 2.5, "shake": 0, "tilt": 0, "hitStop": 0,
+  "callout": true
+}

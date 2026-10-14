@@ -1,0 +1,8 @@
+{
+  "id": "multihit",
+  "moves": ["doublekick", "furyswipes", "furyattack", "bonemerang", "doubleslap", "cometpunch", "pinmissile", "tripleaxel", "triplekick", "twineedle", "bulletseed", "iciclespear", "rockblast", "armthrust", "barrage", "spikecannon"],
+  "anticipation": 0.2, "approach": 0.35, "waitForImpact": 1.8, "hold": 0.9,
+  "distanceScale": 0.6, "heightScale": 0.9, "swingDegrees": 35,
+  "fovKick": 4, "shake": 0.7, "tilt": 0, "hitStop": 0.04,
+  "callout": true
+}
